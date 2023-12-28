@@ -1,3 +1,4 @@
+# wsl
 TTS/
 xtts/
 
@@ -11,3 +12,4 @@ faster-whisper-webui/
 lobe-chat/
 ChatGLM2-6B/
 Flowise/
+calibre-web/

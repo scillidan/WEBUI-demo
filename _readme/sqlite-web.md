@@ -1,4 +1,6 @@
-## Use `pipx`
+## Localhost
+
+Use `pipx`:
 
 ```sh
 pipx install sqlite-web
@@ -8,7 +10,7 @@ pipx install sqlite-web
 sqlite_web yourdatabase.db
 ```
 
-## Use `-m venv`
+Or use `-m venv`
 
 ```sh
 python39 -m venv venv

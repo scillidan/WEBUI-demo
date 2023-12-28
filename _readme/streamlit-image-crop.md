@@ -1,4 +1,4 @@
-## From Source
+## Localhost
 
 I should have tested it on `python38`. Old screenshot with the not pretty resolution `1920x1080`:
 
@@ -36,4 +36,6 @@ pip install -U click==8
 streamlit run example.py
 ```
 
-↪ [click.get_os_args is deprecated on module 'click 8.1.0'](https://github.com/streamlit/streamlit/issues/4555)
+## Reference
+
+[click.get_os_args is deprecated on module 'click 8.1.0'](https://github.com/streamlit/streamlit/issues/4555)

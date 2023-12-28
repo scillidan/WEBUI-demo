@@ -1,4 +1,8 @@
-## From Source (Cache)
+## Hosting
+
+Just use [Vercel](https://vercel.com/).
+
+## Localhost (TBD)
 
 ```sh
 npm install --legacy-peer-dep

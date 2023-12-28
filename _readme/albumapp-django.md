@@ -13,4 +13,4 @@ python manage.py compilemessages
 env\Scripts\python manage.py runserver localhost:8010
 ```
 
-Open `localhost:8010/albums`
+Open `localhost:8010/albums`.
