@@ -1,4 +1,4 @@
-## Localhost (Cache)
+## Localhost
 
 ```sh
 python39 -m venv venv

@@ -1,15 +1,22 @@
+#cache
+Lepton/
+
 # wsl
 TTS/
 xtts/
 
+stable-diffusion-webui/
+faster-whisper-webui/
+text-generation-webui/
 albumapp-django/
 doctr/
-stable-diffusion-webui/
 streamlit-image-crop/
 sqlite-web
 audiocraft/
-faster-whisper-webui/
 lobe-chat/
 ChatGLM2-6B/
 Flowise/
 calibre-web/
+VoiceStreamAI/
+rclone-webui-angular/
+RapidVideOCR/
