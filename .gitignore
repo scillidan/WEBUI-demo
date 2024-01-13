@@ -1,9 +1,14 @@
 #cache
 Lepton/
+streamlit-webrtc/
 
 # wsl
 TTS/
 xtts/
+
+# docker
+redash/
+httpbin/
 
 stable-diffusion-webui/
 faster-whisper-webui/
@@ -20,3 +25,6 @@ calibre-web/
 VoiceStreamAI/
 rclone-webui-angular/
 RapidVideOCR/
+Draw2Img/
+snd/
+flood/
