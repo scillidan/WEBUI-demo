@@ -1,18 +1,7 @@
 #cache
-Lepton/
 streamlit-webrtc/
 Kamite/
-
-# lunix or cloud
-RClone-Drive-WebUI/
-
-# lunix
-Graphite/
-daw/
-
-# docker
-redash/
-httpbin/
+Cap/
 
 albumapp-django/
 streamlit-image-crop/
@@ -22,5 +11,4 @@ rclone-webui-angular/
 snd/
 flood/
 books/
-Cap/
 BallonsTranslator/
