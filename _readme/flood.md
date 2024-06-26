@@ -38,3 +38,5 @@ To:
 ```sh
 pm2 start npm --name "flood" -- run start
 ```
+
+If you forget `username` or `password`, delete `flood` folder under `~/.local/shared/flood`. Reload or re-create flood's PM2-app.
